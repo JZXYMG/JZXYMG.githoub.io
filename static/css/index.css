@@ -1,0 +1,51 @@
+body{
+    background:url(/static/images/bg4.png);
+    background-size:100%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+h3{
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+}
+
+.banner{
+    background-color:rgba(36,82,175,0.83);
+    font-size:20px;
+    padding:10px;
+    text-align:center;
+}
+
+.banner-link{
+    margin-right:20px;
+    color:white;
+    text-decoration:none;
+}
+
+a{
+    margin-left: 50px;
+    font-size: 1em;
+    color: white;
+}
+
+.lun{
+    margin-left: 5%;
+    width: 90%;
+    margin-top:3%;
+}
+.div_img{
+    text-align: center;
+}
+
+
+.div_img a{
+    background-color: rgba(255,255,255,0.5);
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+    color: yellow;
+    border: 2px solid yellow;
+    border-radius: 5px;
+    margin-left: -5px;
+}
